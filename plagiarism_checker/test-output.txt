@@ -1,0 +1,2 @@
+mastra-cloud-ai-tracing-exporter disabled: MASTRA_CLOUD_ACCESS_TOKEN environment variable not set. 🚀 Sign up for Mastra Cloud at https://cloud.mastra.ai to see your AI traces online and obtain your access token.
+[32mINFO[39m [2025-11-08 14:19:52.197 +0100] (Mastra): [36m Mastra API running on port http://localhost:4111/api[39m
