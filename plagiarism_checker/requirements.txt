@@ -1,0 +1,4 @@
+flask
+flask_jsonrpc
+python-dotenv
+requests
